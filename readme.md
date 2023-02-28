@@ -18,4 +18,6 @@ graph TD;
     K-->L[Output Recommendation];
     L-->M[User Feedback];
     M-->N[Update Recommender System];
-```
+    N-->I;
+    N-->D;
+    ```
