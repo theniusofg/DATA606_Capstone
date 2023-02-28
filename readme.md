@@ -3,7 +3,7 @@
 ## my flowchart
 
 
-```
+```mermaid
 graph TD;
     A[Collect Yelp dataset]-->B[Preprocess Data];
     B-->C[Build Text Classification Model];
@@ -19,5 +19,4 @@ graph TD;
     L-->M[User Feedback];
     M-->N[Update Recommender System];
     N-->I;
-    N-->D;
-    ```
+    N-->D;```
