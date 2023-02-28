@@ -4,7 +4,6 @@
 
 
 ```
-mermaid
 graph TD;
     A[Collect Yelp dataset]-->B[Preprocess Data];
     B-->C[Build Text Classification Model];
